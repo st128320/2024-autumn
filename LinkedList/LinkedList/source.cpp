@@ -264,6 +264,7 @@ public:
 int main(int argc, char* argv[])
 {
 	LinkedList list;
+	
 
 	return 0;
 
